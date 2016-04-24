@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 <resources>
     <string name="app_name">AndroidLibraryV4</string>
 </resources>
+=======
+<resources>
+    <string name="app_name">AndroidLibraryV4</string>
+</resources>
+>>>>>>> 3f4401acfd7d3290b2ac0e2f99049c6ccae0b211
